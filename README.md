@@ -14,6 +14,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)
 
 ---
+## 🛡️ TryHackMe Level
+
+<p align="center">
+  <a href="https://tryhackme.com/p/ziroxijo">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ziroxijo.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
 
 ## 🔍 What I do
 

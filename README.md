@@ -72,7 +72,7 @@ class Sofiane:
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sofkii/Sofkii/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Sofkii/Sofkii/output/github-snake.svg" alt="snake animation" />
 </p>
 
 ## 💡 Favorite Quote
